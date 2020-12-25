@@ -5,6 +5,7 @@
 #사전영상 01. 프로그램 다운로드 및 설치 안내 https://youtu.be/__Jr4xpvSYU       
 #사전영상 02. 김해인 작가 및 작품 소개 https://youtu.be/SBQfogctVOs
 
+---------------------------------------------------------------------------------------------------
 
 #워크샵에 사용되는 소프트웨어 다운로드 링크 (windows/mac 운영체제에 맞게 다운로드 및 설치)
 
@@ -21,3 +22,8 @@ https://obsproject.com/
 
 https://software.muzychenko.net/freeware/vac464lite.zip (다운로드 직접 링크)
 https://vac.muzychenko.net/en/download.htm
+
+---------------------------------------------------------------------------------------------------
+
+#워크샵에 필요한 사운드, 이미지, 영상 소스 다운로드 링크 (구글드라이브)
+https://drive.google.com/drive/u/0/folders/1ezqWxXBcW1OciFGHhU4oJWMhOvz_596s
